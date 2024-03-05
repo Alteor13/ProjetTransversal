@@ -4,13 +4,13 @@ Cette branche est dédiée à la conception d'un module RF pour la détection de
 
 Projet Transversal
 
-## Objectifs RF (*/**)
+## Objectifs RF (Pas très dur et pas très long)
 
 - Matériel probable : RC522 + STM32
 - Détecter les badges RFID et leur attribuer un type de plante, à retourner à la STM32 principale
 - Tests à effectuer: RC522 fonctionnels, Correspondance entre un badge RFID et un type de plante
 
-## Objectifs "GPS" (***/****)
+## Objectifs "GPS" (Je vais suer sa mère)
 
 - Matériel probable : STM32 + Télémètre ou RF (2.4GHz ou LoRa 800Mhz)
 - Utiliser un module RF pour permettre une localisation (par triangulation)
