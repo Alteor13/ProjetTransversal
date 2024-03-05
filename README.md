@@ -19,3 +19,5 @@ Projet Transversal
 ## Planning
 
 WIP
+
+### ReadMe par H. Salmon, 4ETI-ESE
