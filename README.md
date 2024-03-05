@@ -1,6 +1,7 @@
-# ProjetTransversal
+# Projet Transversal
 
-Cette branche est dédiée à la conception d'un module RF pour la détection de tags RFID + Localisation du robot par télémètre/LiDAR/Emetteur-Récepteur
+Cette branche est dédiée à la conception d'un module RF pour la détection de tags RFID + Localisation du robot par télémètre/LiDAR/Emetteur-Récepteur 
+
 Projet Transversal
 
 ## Objectifs RF (*/**)
