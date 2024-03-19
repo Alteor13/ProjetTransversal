@@ -19,6 +19,16 @@ Projet Transversal
 
 ## Planning
 
-WIP
+### Du 19/03 au 04/04
+
+Découverte STM32 et module RFID
+
+### Du 04/04 au 09/04
+
+RFID débug + implémentation
+
+### Du 09/04 à la fin
+
+Repérage RF
 
 ### ReadMe par H. Salmon, 4ETI-ESE
