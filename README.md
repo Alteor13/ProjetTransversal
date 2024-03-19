@@ -14,6 +14,7 @@ Projet Transversal
 
 - Matériel probable : STM32 + Télémètre ou RF (2.4GHz ou LoRa 800Mhz)
 - Utiliser un module RF pour permettre une localisation (par triangulation)
+- Placer dans une zone une balise RF qui permet au robot de se situer
 - Tests à effectuer: Module LoRa fonctionnel, tests de base pour vérifier le bon fonctionnement, algorithme de triangulation sur le module RF, dans un premier temps à part puis intégré au robot
 
 ## Planning
