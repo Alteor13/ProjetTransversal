@@ -68,7 +68,7 @@ Pour générer des marqueurs ArUco à l'aide du script `detect_aruco_image.py`, 
 Par exemple, si vous souhaitez détecter des marqueurs ArUco présent dans une scène utilisant le dictionnaire DICT_7X7_50, vous exécuteriez la commande suivante :
 
     ```
-    python3 ./src/detect_aruco_image.py -i ./tags/exemple.png -t DICT_7X7_50
+    cd /chemin/vers/votre/répertoire
     ```
 
 Nous utilisons la scène suivante :
