@@ -32,7 +32,7 @@ Pour générer des marqueurs ArUco à l'aide du script `generate_aruco.py`, suiv
 
 4. Après avoir exécuté le script, l'image du marqueur ArUco générée sera enregistrée dans le répertoire `./tags/` avec un nom de fichier suivant le format : `type_id.png`.
 
-Par exemple, si vous souhaitez générer un marqueur ArUco avec l'ID 42 en utilisant le dictionnaire DICT_6X6_250, vous exécuteriez la commande suivante :
+    Par exemple, si vous souhaitez générer un marqueur ArUco avec l'ID 42 en utilisant le dictionnaire DICT_6X6_250, vous exécuteriez la commande suivante :
 
     ```
     python3 ./src/generate_aruco.py -i 42 -t DICT_6X6_250
@@ -65,10 +65,10 @@ Pour générer des marqueurs ArUco à l'aide du script `detect_aruco_image.py`, 
 
 4. Après avoir exécuté le script, l'image passé en paramètre sera modifiée afin de posséder des contours autour des marqueurs détectés, ainsi que l'id de celui-ci.
 
-Par exemple, si vous souhaitez détecter des marqueurs ArUco présent dans une scène utilisant le dictionnaire DICT_7X7_50, vous exécuteriez la commande suivante :
+    Par exemple, si vous souhaitez détecter des marqueurs ArUco présent dans une scène utilisant le dictionnaire DICT_7X7_50, vous exécuteriez la commande suivante :
 
     ```
-    cd /chemin/vers/votre/répertoire
+    python3 ./src/detect_aruco_image.py -i ./tags/exemple.png -t DICT_7X7_50
     ```
 
 Nous utilisons la scène suivante :
