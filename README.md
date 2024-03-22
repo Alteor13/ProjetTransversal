@@ -10,8 +10,10 @@ Ce programme nécessite une version ultérieure à OpenCV4.7 ainsi que Numpy pou
 ## Utilisation
 Il suffit de compiler le code souhaité à l'aide d'un interprétateur Python.
 
-## Utilisation de generate_aruco.py
+## Contributeur
+Le code original a été fourni par Adrian Rosebrock. J'ai apporté des modifications à certaines fonctions (notamment aux fonctions obsolètes), mais la majorité du code reste conforme à sa contribution.
 
+## Utilisation de generate_aruco.py
 Pour générer des marqueurs ArUco à l'aide du script `generate_aruco.py`, suivez ces étapes :
 
 1. Ouvrez votre terminal ou votre invite de commande.
